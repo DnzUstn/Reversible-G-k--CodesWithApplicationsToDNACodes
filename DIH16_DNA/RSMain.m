@@ -1,5 +1,5 @@
 // *************************************************************************************************
-// ***** Copyright(c) 2022, Tarsus University, Department of Mathematical and Computer Science *****
+// ***** Copyright(c) 2022, Tarsus University, Department of Mathematics and Computer Science *****
 // *************************************************************************************************
 //  Project Code  : PRJ_RS-001
 //  Project Title : DIH-16 DNA Codes 
